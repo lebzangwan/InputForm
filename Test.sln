@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43FEB74B-C94F-412D-BA2D-86D8AB995E5F}"
+	ProjectSection(SolutionItems) = preProject
+		InputForm.html = InputForm.html
+		jquery.js = jquery.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{205690A2-9D5C-42E0-914B-0CF85A89D549}"
+	ProjectSection(SolutionItems) = preProject
+		icons8-cancel-30.png = icons8-cancel-30.png
+		icons8-plus-30.png = icons8-plus-30.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{205690A2-9D5C-42E0-914B-0CF85A89D549} = {43FEB74B-C94F-412D-BA2D-86D8AB995E5F}
+	EndGlobalSection
+EndGlobal
